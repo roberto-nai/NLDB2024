@@ -11,3 +11,6 @@ Directory containing full-size images of the paper.
 #### > query_samples  
 Examples of query arguments (in Italian).  
 
+### Script
+#### ANAC Open Data downloader  
+See [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/roberto-nai/ANAC-OD-DOWNLOADER)

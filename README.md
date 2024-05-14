@@ -13,4 +13,7 @@ Examples of query arguments (in Italian).
 
 ### Script
 #### > ANAC Open Data downloader  
-See [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/roberto-nai/ANAC-OD-DOWNLOADER)
+See [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/roberto-nai/ANAC-OD-DOWNLOADER)  
+
+### ANAC Open Data
+ANAC Open Data catalogue downloaded for this project can be found here: [https://bit.ly/4aqJ8tY](https://bit.ly/4aqJ8tY).  

@@ -17,3 +17,8 @@ See [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/rober
 
 ### ANAC Open Data
 ANAC Open Data catalogue downloaded for this project can be found here: [https://bit.ly/4aqJ8tY](https://bit.ly/4aqJ8tY).  
+
+### Tools for embedding
+Cohere (embeddings): [https://cohere.com/](https://cohere.com/)  
+Elasticsearch (database): [https://www.elastic.co/](https://www.elastic.co/)  
+Open AI (embeddings): [https://openai.com/](https://openai.com/)  

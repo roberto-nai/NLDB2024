@@ -21,7 +21,7 @@ Examples of query arguments (in Italian).
 #### > ANAC Open Data downloader  
 See [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/roberto-nai/ANAC-OD-DOWNLOADER)  
 
-### Tools for embedding
+### > Tools for embedding
 Cohere (embeddings): [https://cohere.com/](https://cohere.com/)  
 Elasticsearch (database): [https://www.elastic.co/](https://www.elastic.co/)  
 Open AI (embeddings): [https://openai.com/](https://openai.com/)  

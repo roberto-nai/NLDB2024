@@ -18,8 +18,7 @@ Directory containing full-size images of the paper.
 Examples of query arguments (in Italian).  
 
 ### Script
-#### > ANAC Open Data downloader  
-See [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/roberto-nai/ANAC-OD-DOWNLOADER)  
+#### > ANAC Open Data downloader  [https://github.com/roberto-nai/ANAC-OD-DOWNLOADER](https://github.com/roberto-nai/ANAC-OD-DOWNLOADER)  
 
 ### > Tools for embedding
 Cohere (embeddings): [https://cohere.com/](https://cohere.com/)  
